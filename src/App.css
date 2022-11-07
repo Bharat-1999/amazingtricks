@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.hello123 {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: 500;
+  top: auto;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
